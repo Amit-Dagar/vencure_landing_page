@@ -594,3 +594,24 @@ img{
     font-size: 25px;
 }
 /* Back to top btn part End */
+
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track /
+::-webkit-scrollbar-track {
+  background: #22327A; 
+
+}
+ 
+/ Handle /
+::-webkit-scrollbar-thumb {
+  background: #008AF5; 
+}
+
+/ Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0077d4; 
+}
